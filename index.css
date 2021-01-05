@@ -6,5 +6,13 @@
    width: 400px;
    /* margin: top right bottom left;
    margin: top-bottom right-left; */
-   margin: 0 auto;
+   margin: 0 auto 20px auto;
 }
+.newimg-centering {
+    display: block;
+    width: 500px;
+    /* margin: top right bottom left;
+    margin: top-bottom right-left; */
+    margin: 0 auto;
+    border: 2px solid #e9fffd4f
+ }
