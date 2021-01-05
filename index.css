@@ -1,0 +1,10 @@
+.centering {
+    text-align:center;
+}
+.img-centering {
+   display: block;
+   width: 400px;
+   /* margin: top right bottom left;
+   margin: top-bottom right-left; */
+   margin: 0 auto;
+}
